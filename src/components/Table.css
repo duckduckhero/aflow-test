@@ -1,0 +1,23 @@
+.test { 
+    background-color: aqua;
+}
+
+tbody tr:nth-child(odd){
+    background-color: skyblue;
+    color: #fff;
+    height: 30px;
+}
+
+tbody tr:nth-child(even){
+    background-color: palevioletred;
+    color: #fff;
+    height: 30px;
+}
+
+table { 
+    margin: 0 auto; 
+    margin-bottom: 80px;
+    font-size: medium;
+}
+  
+  
